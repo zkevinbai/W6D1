@@ -1,0 +1,18 @@
+/* PHASE 8: Thumbs */
+.friends {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5px 0px 0px 10px;
+}
+
+.thumb{
+    height: 50px;
+    width: 50px;
+    margin: 1px;
+    padding: 1px;
+    border-radius: 5px;
+}
+
+.thumb:hover{
+    background-color: black;
+}
